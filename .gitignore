@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+/target/
+/DelayerReqConf.json
+/DelayerReq.iml
+/.idea
+/src/main/java/Main.java
